@@ -24,19 +24,20 @@ Resource: [Preventing Insecure Network Connections] - [[Full URL](https://develo
 
 ## Networking
 
-Resource: [Page title] - [Full URL]
+IPv4 uses 32-bit addresses, while IPv6 uses 128-bit addresses, providing a much larger address space. This is important as more smartphones and connected devices access online government services. IPv6 can support future growth by allowing more devices to connect without the same limitations of IPv4 address availability. Government applications should ensure their network infrastructure supports IPv6 correctly to maintain reliable connectivity as the number of users and connected devices increases. 
+Resource: [A Comparison of Internet Protocol (IPv6) Security Guidelines] - [[Full URL](https://www.mdpi.com/1999-5903/6/1/1)]
 
 ## Cybersecurity
 
-[Write your answer here.]
+Prompt injection occurs when malicious instructions manipulate an AI assistant into ignoring its intended rules or producing unsafe responses. Direct injection comes from a user’s message, while indirect injection is hidden in external content, such as documents or webpages. For a government service assistant, risks can be reduced by separating untrusted content from system instructions and restricting the assistant’s access to sensitive data and privileged functions.
 
-Resource: [Page title] - [Full URL]
+Resource: [A Systematic Review of Prompt Injection Attacks on Large Language Models: Trends, Taxonomy, Evaluation, Defenses, and Opportunities] - [[Full URL](https://ieeexplore.ieee.org/abstract/document/11359704)]
 
 ## Data
 
-[Write your answer here.]
+Anonymization removes identifying information so individuals can no longer reasonably be identified, while pseudonymization replaces personal identifiers with codes that can be linked back to a person using additional information. When storing government AI chat logs, anonymization can help protect citizens’ privacy. Under the GDPR, effectively anonymized data falls outside data protection law, whereas pseudonymized data remains personal data and must still comply with data protection requirements. 
 
-Resource: [Page title] - [Full URL]
+Resource: [Introduction to anonymisation - Information Commissioner's Office] - [[Full URL](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-sharing/anonymisation/introduction-to-anonymisation/)]
 
 ## Misconception in My Track
 
