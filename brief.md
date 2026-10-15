@@ -41,9 +41,9 @@ Resource: [Introduction to anonymisation - Information Commissioner's Office] - 
 
 ## Misconception in My Track
 
-[Write your answer here.]
+A common misconception about Semantic Versioning is that every software update requires a MAJOR version increase. However, the version number depends on the type of change and its compatibility with the existing public API. Incompatible public API changes require a MAJOR version increase, new backward-compatible functionality requires a MINOR version increase, and backward-compatible bug fixes require a PATCH version increase. The official Semantic Versioning specification explains these rules in Sections 6, 7, and 8. Understanding these distinctions helps developers manage software updates and maintain compatibility.
 
 ## Open Question
 
-[Write your question here.]
+How can developers determine whether a public API change is backward-compatible when deciding which Semantic Versioning number to increase?
 
